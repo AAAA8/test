@@ -1,1 +1,3 @@
+local NNLogic={}
 
+return NNLogic
